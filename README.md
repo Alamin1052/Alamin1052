@@ -1,4 +1,4 @@
-<img width="1024" height="300" alt="image" src="https://github.com/user-attachments/assets/858c52ae-1cae-4be8-beb8-61b825383395" />
+<img src="https://raw.githubusercontent.com/Alamin1052/Alamin1052/main/Banner.png" alt="Banner" />
 
 ---
 <!-- Banner / Header -->
