@@ -16,35 +16,15 @@ I’m AL-AMIN, a passionate Full-Stack Web Developer focused on building clean, 
 
 With a strong foundation in JavaScript, React, Node.js, Express, and MongoDB, I love designing smooth user experiences and writing code that’s easy to read, maintain, and scale. My workflow involves clean architecture, reusable components, and performance-first thinking.
 
-## ❤️ My Favorite Languages
-
-<p align="left">
-
-<!-- JavaScript -->
-<img src="https://skillicons.dev/icons?i=javascript" width="45" title="JavaScript" />
-
-<!-- React.js -->
-<img src="https://skillicons.dev/icons?i=react" width="45" title="React.js" />
-
-<!-- Express.js -->
-<img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js" />
-
-<!-- TypeScript -->
-<img src="https://skillicons.dev/icons?i=typescript" width="45" title="TypeScript" />
-
-</p>
-
-
 ---
 
 ## 🧠 Skills & Technologies
 
 | **Skill Category** | **Technologies** |
 |--------------------|------------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=js" /> |
-| **Frontend Technologies** | <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs" /> |
+| **Frontend Technologies** | <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react" /> |
 | **Back-End Development** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mongodb" /> |
 | **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,firebase,jwt,postman,vscode,figma" /> |
 
 ---
@@ -89,14 +69,6 @@ With a strong foundation in JavaScript, React, Node.js, Express, and MongoDB, I 
 
 ---
 
-### 🚀 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabfarhanarko&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
-
 
 ## 🏆 GitHub Profile Stats  
 <p align="center">
@@ -105,9 +77,3 @@ With a strong foundation in JavaScript, React, Node.js, Express, and MongoDB, I 
 </p>
 
 
-
----
-## 💖 Support Me
-If you like my work, consider giving a ⭐ to my repositories or connecting with me Thank You For !  
-
-----
