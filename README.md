@@ -54,38 +54,21 @@ With a strong foundation in JavaScript, React, Node.js, Express, and MongoDB, I 
 <p align="left">
 
 <!-- Email -->
-<a href="mailto:aftabfarhan324@gmail.com" target="_blank">
+<a href="mailto:alaminetc9@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" />
 </a>
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/aftabfarhan/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <!-- Facebook -->
-<a href="https://facebook.com/" target="_blank">
+<a href="https://www.facebook.com/mdalamin1052/" target="_blank">
   <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<!-- Instagram -->
-<a href="https://instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-
-<!-- YouTube -->
-<a href="https://youtube.com/" target="_blank">
-  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-</p>
 
 
 ----
 ## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AftabFarhanArko&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alamin1052&theme=react-dark&hide_border=true" />
 </p>
 
 ---
