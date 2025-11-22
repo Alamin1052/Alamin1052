@@ -45,9 +45,10 @@ With a strong foundation in JavaScript, React, Node.js, Express, and MongoDB, I 
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/alamin-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
->
+
+
 
 
 
