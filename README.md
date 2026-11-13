@@ -71,8 +71,14 @@ I'm continuously exploring emerging technologies, strengthening my software engi
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alamin1052&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alamin1052&theme=transparent&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Alamin1052&show_icons=true&theme=transparent&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Alamin1052&theme=transparent&hide_border=true"
+    height="165"
+  />
 </p>
 
 ## 📈 Contribution Activity
